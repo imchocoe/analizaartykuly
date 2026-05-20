@@ -1,4 +1,20 @@
 {
+  "www.bbc.com": [
+    "aboutthebbc",
+    "arts",
+    "audio",
+    "business",
+    "culture",
+    "future",
+    "future-planet",
+    "health",
+    "news",
+    "reel",
+    "sport",
+    "technology",
+    "travel",
+    "usingthebbc"
+  ],
   "www.aljazeera.com": [
     "africa",
     "asia",
@@ -18,22 +34,6 @@
     "sports",
     "travel",
     "us-canada"
-  ],
-  "www.bbc.com": [
-    "aboutthebbc",
-    "arts",
-    "audio",
-    "business",
-    "culture",
-    "future",
-    "future-planet",
-    "health",
-    "news",
-    "reel",
-    "sport",
-    "technology",
-    "travel",
-    "usingthebbc"
   ],
   "www.npr.org": [
     "about-npr",
@@ -79,6 +79,18 @@
     "webform",
     "world-news"
   ],
+  "www.nytimes.com": [
+    "athletic",
+    "crosswords",
+    "custom-content",
+    "interactive",
+    "international",
+    "livestream",
+    "news",
+    "news-event",
+    "spotlight",
+    "wirecutter"
+  ],
   "www.theguardian.com": [
     "artanddesign",
     "books",
@@ -102,11 +114,11 @@
     "lifeandstyle",
     "money",
     "music",
-    "news",
     "obituaries",
     "politics",
     "preference",
     "science",
+    "society",
     "sport",
     "stage",
     "technology",
@@ -121,27 +133,6 @@
     "us-news",
     "weekly",
     "world"
-  ],
-  "www.nytimes.com": [
-    "article",
-    "athletic",
-    "books",
-    "browser",
-    "column",
-    "crosswords",
-    "custom-content",
-    "gift",
-    "gift-articles",
-    "interactive",
-    "international",
-    "livestream",
-    "news",
-    "news-event",
-    "reviews",
-    "series",
-    "spotlight",
-    "trending",
-    "wirecutter"
   ],
   "www.cnn.com": [
     "ad-choices",
