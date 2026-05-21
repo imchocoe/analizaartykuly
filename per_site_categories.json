@@ -31,20 +31,10 @@
     "middle-east",
     "news",
     "opinion",
+    "opinions",
     "sports",
     "travel",
     "us-canada"
-  ],
-  "www.npr.org": [
-    "about-npr",
-    "books",
-    "diversity",
-    "lifekit",
-    "music",
-    "podcasts-and-shows",
-    "programs",
-    "series",
-    "transcripts"
   ],
   "apnews.com": [
     "accessibility-statement",
@@ -79,17 +69,16 @@
     "webform",
     "world-news"
   ],
-  "www.nytimes.com": [
-    "athletic",
-    "crosswords",
-    "custom-content",
-    "interactive",
-    "international",
-    "livestream",
-    "news",
-    "news-event",
-    "spotlight",
-    "wirecutter"
+  "www.npr.org": [
+    "about-npr",
+    "books",
+    "diversity",
+    "lifekit",
+    "music",
+    "podcasts-and-shows",
+    "programs",
+    "series",
+    "transcripts"
   ],
   "www.theguardian.com": [
     "artanddesign",
@@ -114,11 +103,11 @@
     "lifeandstyle",
     "money",
     "music",
+    "news",
     "obituaries",
     "politics",
     "preference",
     "science",
-    "society",
     "sport",
     "stage",
     "technology",
@@ -130,9 +119,28 @@
     "tv-and-radio",
     "type",
     "uk-news",
-    "us-news",
     "weekly",
     "world"
+  ],
+  "www.nytimes.com": [
+    "article",
+    "athletic",
+    "books",
+    "browser",
+    "column",
+    "crosswords",
+    "custom-content",
+    "gift",
+    "gift-articles",
+    "interactive",
+    "international",
+    "livestream",
+    "news",
+    "reviews",
+    "series",
+    "spotlight",
+    "trending",
+    "wirecutter"
   ],
   "www.cnn.com": [
     "ad-choices",
