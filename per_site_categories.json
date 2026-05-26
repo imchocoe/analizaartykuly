@@ -15,6 +15,17 @@
     "travel",
     "usingthebbc"
   ],
+  "www.npr.org": [
+    "about-npr",
+    "books",
+    "diversity",
+    "lifekit",
+    "music",
+    "podcasts-and-shows",
+    "programs",
+    "series",
+    "transcripts"
+  ],
   "www.aljazeera.com": [
     "africa",
     "asia",
@@ -31,7 +42,6 @@
     "middle-east",
     "news",
     "opinion",
-    "opinions",
     "sports",
     "travel",
     "us-canada"
@@ -69,17 +79,6 @@
     "webform",
     "world-news"
   ],
-  "www.npr.org": [
-    "about-npr",
-    "books",
-    "diversity",
-    "lifekit",
-    "music",
-    "podcasts-and-shows",
-    "programs",
-    "series",
-    "transcripts"
-  ],
   "www.theguardian.com": [
     "artanddesign",
     "books",
@@ -105,9 +104,9 @@
     "music",
     "news",
     "obituaries",
-    "politics",
     "preference",
     "science",
+    "society",
     "sport",
     "stage",
     "technology",
@@ -121,26 +120,6 @@
     "uk-news",
     "weekly",
     "world"
-  ],
-  "www.nytimes.com": [
-    "article",
-    "athletic",
-    "books",
-    "browser",
-    "column",
-    "crosswords",
-    "custom-content",
-    "gift",
-    "gift-articles",
-    "interactive",
-    "international",
-    "livestream",
-    "news",
-    "reviews",
-    "series",
-    "spotlight",
-    "trending",
-    "wirecutter"
   ],
   "www.cnn.com": [
     "ad-choices",
@@ -168,5 +147,23 @@
     "transcripts",
     "travel",
     "world"
+  ],
+  "www.nytimes.com": [
+    "athletic",
+    "books",
+    "browser",
+    "column",
+    "crosswords",
+    "custom-content",
+    "gift",
+    "gift-articles",
+    "international",
+    "livestream",
+    "news",
+    "reviews",
+    "series",
+    "spotlight",
+    "trending",
+    "wirecutter"
   ]
 }
