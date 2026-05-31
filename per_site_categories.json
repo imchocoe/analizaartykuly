@@ -8,6 +8,7 @@
     "economy",
     "europe",
     "features",
+    "fifa-world-cup-2026",
     "gallery",
     "interactives",
     "investigations",
@@ -34,17 +35,6 @@
     "technology",
     "travel",
     "usingthebbc"
-  ],
-  "www.npr.org": [
-    "about-npr",
-    "books",
-    "diversity",
-    "lifekit",
-    "music",
-    "podcasts-and-shows",
-    "programs",
-    "series",
-    "transcripts"
   ],
   "apnews.com": [
     "accessibility-statement",
@@ -102,7 +92,6 @@
     "lifeandstyle",
     "money",
     "music",
-    "news",
     "obituaries",
     "preference",
     "science",
@@ -122,8 +111,18 @@
     "weekly",
     "world"
   ],
+  "www.npr.org": [
+    "about-npr",
+    "books",
+    "diversity",
+    "lifekit",
+    "music",
+    "podcasts-and-shows",
+    "programs",
+    "series",
+    "transcripts"
+  ],
   "www.nytimes.com": [
-    "article",
     "athletic",
     "books",
     "browser",
