@@ -36,6 +36,17 @@
     "travel",
     "usingthebbc"
   ],
+  "www.npr.org": [
+    "about-npr",
+    "books",
+    "diversity",
+    "lifekit",
+    "music",
+    "podcasts-and-shows",
+    "programs",
+    "series",
+    "transcripts"
+  ],
   "apnews.com": [
     "accessibility-statement",
     "ap-fact-check",
@@ -71,6 +82,7 @@
   ],
   "www.theguardian.com": [
     "artanddesign",
+    "australia-news",
     "books",
     "business",
     "commentisfree",
@@ -93,6 +105,7 @@
     "money",
     "music",
     "obituaries",
+    "politics",
     "preference",
     "science",
     "society",
@@ -107,20 +120,8 @@
     "tv-and-radio",
     "type",
     "uk-news",
-    "us-news",
     "weekly",
     "world"
-  ],
-  "www.npr.org": [
-    "about-npr",
-    "books",
-    "diversity",
-    "lifekit",
-    "music",
-    "podcasts-and-shows",
-    "programs",
-    "series",
-    "transcripts"
   ],
   "www.nytimes.com": [
     "athletic",
@@ -135,6 +136,7 @@
     "international",
     "livestream",
     "news",
+    "news-event",
     "reviews",
     "series",
     "spotlight",
